@@ -97,4 +97,5 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ### Acknowledgments
 
-Thanks to (https://www.openai.com|OpenAI) for providing assistance in developing this tool.
+Thanks to [OpenAI](https://www.openai.com) for providing assistance in developing this tool.
+
